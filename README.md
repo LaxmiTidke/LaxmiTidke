@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🤍I’m LAXMI <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 - 🔭 I’m currently working on a Node.js project and a real-time project in Angular.
 - 🌱 I’m currently learning Material-UI and advanced front-end development techniques.
 - 👯 I’m looking to collaborate on UI/UX design projects and web application development.
