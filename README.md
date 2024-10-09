@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on a Node.js project and a real-time project in Angular.
 - 🌱 I’m currently learning Material-UI and advanced front-end development techniques.
 - 👯 I’m looking to collaborate on UI/UX design projects and web application development.
-- 🤔 I’m looking for help with refining my skills in real-time application development.
 - 💬 Ask me about my experience in UI/UX design, front-end development, and prototyping with Figma.
 - 📫 Check out my Linktree : https://linktr.ee/laxmee31 
 - -----------------------------------------------------------------------------------------------------
